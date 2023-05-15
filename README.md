@@ -1,5 +1,5 @@
-<img src="https://github.com/Nadezhda-v/rent-cars/assets/109743172/16faf149-68a8-47ec-bd2d-1f4b7ece6dc4" alt="main" width="400"/>
-<img src="https://github.com/Nadezhda-v/rent-cars/assets/109743172/e3ffc827-17a6-45cd-80df-72957b1f1053" alt="auto-park" width="400"/>
+<img src="https://github.com/Nadezhda-v/rent-cars/assets/109743172/baf7e7f8-7d43-4f2a-a341-d369d82cbe62" alt="main" width="400"/>
+<img src="https://github.com/Nadezhda-v/rent-cars/assets/109743172/2257bb8c-c00a-44f1-b50c-db0b978bb65b" alt="auto-park" width="400"/>
 
 # Проект "Аренда премиальных автомобилей"
 Ссылка на [проект](https://nadezhda-v.github.io/rent-cars/)
